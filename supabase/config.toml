@@ -1,0 +1,2 @@
+[functions.verify-timetable]
+verify_jwt = false
